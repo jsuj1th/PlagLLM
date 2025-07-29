@@ -1,2 +1,4 @@
 OpenGPTText_cSV_format/cleaned_Dataset.csv
 OpenGPTText_cSV_format/Final_dataset.csv
+*.csv
+*.pkl

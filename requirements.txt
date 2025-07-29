@@ -1,9 +1,7 @@
-cloudpickle
-lime
-tensorflow
-numpy
-pandas
-seaborn
-matplotlib  
-scikit-learn
-xgboost
+lime==0.2.0.1
+numpy==1.24.3
+pandas==2.0.3
+streamlit==1.40.1
+streamlit-lottie==0.0.5
+torch==2.4.1
+transformers==4.46.3
